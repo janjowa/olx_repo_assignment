@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d3280c4.chunk.css",
+    "main.js": "/static/js/main.d23885c4.chunk.js",
+    "main.js.map": "/static/js/main.d23885c4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ec2d9410.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ec2d9410.js.map",
+    "static/js/2.d4b43720.chunk.js": "/static/js/2.d4b43720.chunk.js",
+    "static/js/2.d4b43720.chunk.js.map": "/static/js/2.d4b43720.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cefbf6432fc5d7f99abd226fc054e635.js": "/precache-manifest.cefbf6432fc5d7f99abd226fc054e635.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6d3280c4.chunk.css.map": "/static/css/main.6d3280c4.chunk.css.map",
+    "static/js/2.d4b43720.chunk.js.LICENSE.txt": "/static/js/2.d4b43720.chunk.js.LICENSE.txt",
+    "static/media/fysisoft_OLX_.png": "/static/media/fysisoft_OLX_.667abcf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec2d9410.js",
+    "static/js/2.d4b43720.chunk.js",
+    "static/css/main.6d3280c4.chunk.css",
+    "static/js/main.d23885c4.chunk.js"
+  ]
+}
